@@ -1,1 +1,1 @@
-# sethmisenar.github.io
+[Resume.pdf](./pdfs/Resume.pdf).
